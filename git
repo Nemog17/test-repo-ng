@@ -1,0 +1,11 @@
+* What is git?
+- The actual version control software
+- Runs on the command line
+
+If you mkae a code change that you realize later on was a huge mistake, you can revert back to an older version of that file.
+
+- A version control system
+- It tracks changes to files
+- Think of it like save points
+
+Git also makes working on a team a lot easier. Each developer can work on a copy of the project on their own computer. This copy is stored in a folder connected to git, which is called a local repository. The developers can then send their code changes up to the main remote repository which is stored online, and get code changes made by other developers. 
